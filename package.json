@@ -1,0 +1,24 @@
+{
+  "name": "zephyr",
+  "version": "1.0.0",
+  "description": "A Zephyr Web Proxy Server for multi-environment",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skygenesisenterprise/zephyr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/skygenesisenterprise/zephyr/issues"
+  },
+  "homepage": "https://github.com/skygenesisenterprise/zephyr#readme"
+}
